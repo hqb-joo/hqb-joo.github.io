@@ -63,7 +63,7 @@ Yu Qian, **Qianbao Hou**, Dan Dou, Jian Tang
 - 2017 - 2021: **The Third Class Scholarships of Wuhan University.**
 
 # 📖 Educations
-- 2021.06 - now :  **Wuhan University**, M.S. in Resources and Environment.
+- 2021.09 - now :  **Wuhan University**, M.S. in Resources and Environment.
 - 2017.09 - 2021.06: **Wuhan University**, B.S. in Surveying and Mapping Engineering.
  
 # 💻 Internships
