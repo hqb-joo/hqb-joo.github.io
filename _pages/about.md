@@ -31,7 +31,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Applied Earth Observation and Geoinformation</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Visual Overlapping Image Pairs for SfM via CNN Fine-Tuning with Photogrammetric Geometry Information](https://ieeexplore.ieee.org/document/9755128](https://www.sciencedirect.com/science/article/pii/S1569843222003508)
+[Learning Visual Overlapping Image Pairs for SfM via CNN Fine-Tuning with Photogrammetric Geometry Information](https://www.sciencedirect.com/science/article/pii/S1569843222003508)
 
 **Qianbao Hou**, Rui Xia, Jiahuan Zhang, Yu Feng, Zongqian Zhan, Xin Wang
 
