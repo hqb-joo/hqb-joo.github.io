@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qianbao Hou"
-description              : "M.S. student at Wuhan University. "
+description              : "M.S. Wuhan University "
 repository               : "hqb-joo/hqb-joo.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -27,9 +27,8 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=cuDwCOwAAAAJ&hl=zh-CN"
-  email            : "xyhuang@ieee.org"
-  researchgate     : "https://www.researchgate.net/profile/Xinyu-Huang-56"
+  googlescholar    : 
+  email            : "495224601@qq.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -45,7 +44,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-3125-0411"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
